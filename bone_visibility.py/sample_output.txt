@@ -1,0 +1,793 @@
+
+    {
+        "condition": "q.block_property('cbw:direction') == 0 && (q.block_property('cbw:shape') == 'straight' && q.block_property('cbw:upside_down') == false)",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "q.block_property('cbw:direction') == 0 && (q.block_property('cbw:shape') == 'straight' && q.block_property('cbw:upside_down') == true)",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "q.block_property('cbw:direction') == 1 && (q.block_property('cbw:shape') == 'straight' && q.block_property('cbw:upside_down') == false)",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "q.block_property('cbw:direction') == 1 && (q.block_property('cbw:shape') == 'straight' && q.block_property('cbw:upside_down') == true)",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "q.block_property('cbw:direction') == 2 && (q.block_property('cbw:shape') == 'straight' && q.block_property('cbw:upside_down') == false)",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "q.block_property('cbw:direction') == 2 && (q.block_property('cbw:shape') == 'straight' && q.block_property('cbw:upside_down') == true)",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "q.block_property('cbw:direction') == 3 && (q.block_property('cbw:shape') == 'straight' && q.block_property('cbw:upside_down') == false)",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "q.block_property('cbw:direction') == 3 && (q.block_property('cbw:shape') == 'straight' && q.block_property('cbw:upside_down') == true)",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 0 && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'inner_right')) || (q.block_property('cbw:direction') == 3 && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'inner_left'))",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 0 && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'inner_left')) || (q.block_property('cbw:direction') == 2 && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'inner_right'))",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 1 || q.block_property('cbw:direction') == 3) && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'inner_right')",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 1 || q.block_property('cbw:direction') == 2) && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'inner_left')",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 0 || q.block_property('cbw:direction') == 2) && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'outer_right')",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 0 || q.block_property('cbw:direction') == 3) && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'outer_left')",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 1 && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'outer_right')) || (q.block_property('cbw:direction') == 2 && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'outer_left'))",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 1 && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'outer_left')) || (q.block_property('cbw:direction') == 3 && (q.block_property('cbw:upside_down') == false && q.block_property('cbw:shape') == 'outer_right'))",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 0 && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'inner_right')) || (q.block_property('cbw:direction') == 3 && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'inner_left'))",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 0 && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'inner_left')) || (q.block_property('cbw:direction') == 2 && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'inner_right'))",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 1 || q.block_property('cbw:direction') == 3) && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'inner_right')",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 1 || q.block_property('cbw:direction') == 2) && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'inner_left')",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 0 || q.block_property('cbw:direction') == 2) && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'outer_right')",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 0 || q.block_property('cbw:direction') == 3) && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'outer_left')",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_right1u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 1 && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'outer_right')) || (q.block_property('cbw:direction') == 2 && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'outer_left'))",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_left1u": false
+                }
+            }
+        }
+    },
+    {
+        "condition": "(q.block_property('cbw:direction') == 1 && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'outer_left')) || (q.block_property('cbw:direction') == 3 && (q.block_property('cbw:upside_down') == true && q.block_property('cbw:shape') == 'outer_right'))",
+        "components": {
+            "minecraft:geometry": {
+                "identifier": "geometry.custom_stairs",
+                "bone_visibility": {
+                    "normaln": false,
+                    "upsiden": false,
+                    "normals": false,
+                    "upsides": false,
+                    "normalw": false,
+                    "upsidew": false,
+                    "normale": false,
+                    "upsidee": false,
+                    "inner_right0": false,
+                    "inner_left0": false,
+                    "inner_right1": false,
+                    "inner_left1": false,
+                    "outer_right0": false,
+                    "outer_left0": false,
+                    "outer_right1": false,
+                    "outer_left1": false,
+                    "inner_right0u": false,
+                    "inner_left0u": false,
+                    "inner_right1u": false,
+                    "inner_left1u": false,
+                    "outer_right0u": false,
+                    "outer_left0u": false,
+                    "outer_right1u": false
+                }
+            }
+        }
+    }
